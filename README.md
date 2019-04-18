@@ -10,3 +10,8 @@ https://www.youtube.com/watch?v=awLnur5Yt9o&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDx
 COURSE 2:The Bits and Bytes of Computer Networking
 
 https://www.youtube.com/watch?v=QKfk7YFILws&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDxwqj&index=2
+
+
+COURSE 3:Operating Systems and You: Becoming a Power User
+
+https://www.youtube.com/watch?v=Snrh580U3tI&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDxwqj&index=3
