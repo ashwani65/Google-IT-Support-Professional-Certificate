@@ -20,11 +20,10 @@ COURSE 4:System Administration and IT Infrastructure Services
 
 https://www.youtube.com/watch?v=1DvTwuByjo0&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDxwqj&index=4
 
-COUSRSE 5:IT Security: Defense against the digital dark arts 
-
-https://www.youtube.com/watch?v=6MYF6Zo6i6A&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDxwqj&index=6
-
-
-EXTRA COURSE:IT AUTOMATION -it's not that scary!
+COURSE 5:IT AUTOMATION -it's not that scary!
 
 https://www.youtube.com/watch?v=ce434nD79nU&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDxwqj&index=5
+
+COUSRSE 6:IT Security: Defense against the digital dark arts 
+
+https://www.youtube.com/watch?v=6MYF6Zo6i6A&list=PLmAuaUS7wSOOVu9gC0jYfKCmFKGaDxwqj&index=6
